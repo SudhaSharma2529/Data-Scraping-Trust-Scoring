@@ -1,0 +1,31 @@
+[
+  {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/32619191/",
+    "source_type": "pubmed",
+    "title": "Could the UKNEQAS program \"Manual Differential Blood Count\" be performed by the use of an automated digital morphology analyzer (Sysmex DI-60)? A feasibility study.",
+    "author": "Marco Rosetti, Evita Massari, Giovanni Poletti, Romolo M Dorizzi",
+    "published_date": "2021-03-26",
+    "language": "en",
+    "region": "Global",
+    "topic_tags": [
+      "Research"
+    ],
+    "trust_score": 0.4631,
+    "trust_detail": {
+      "trust_score": 0.4631,
+      "components": {
+        "author": 0.5,
+        "citations": 0.45154499349597177,
+        "domain": 1.0,
+        "recency": 0.1017,
+        "disclaimer": 0.0
+      },
+      "abuse_penalty": 1.0,
+      "flags": [
+        "No medical disclaimer found"
+      ]
+    },
+    "content_chunks": [],
+    "citation_count": 7
+  }
+]
